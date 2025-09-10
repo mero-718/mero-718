@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Richard Bryant  
+# 👋 Hi, I asprie to be an excellent AI Engineer on a global level  
 ### 🚀 Senior Python Developer | 🤖 AI Engineer | ☁️ Cloud Enthusiast  
 
 ---
@@ -33,10 +33,70 @@ Here are some ideas to get you started:
 -->
 
 ## 🛠️ Tech Stacks & Tools  
-- **Languages**: Python 🐍, JavaScript ⚡, Bash 🖥️, SQL 📊  
-- **Frameworks**: Django 🎯, Flask 🔥, FastAPI ⚡, PyTorch 🔬, TensorFlow 🧠, Scikit-learn 📚  
+- **Languages**: Python 🐍, JavaScript ⚡, C# 🎯, Rust 🦀, Golang 🚀, Bash 🖥️, SQL 📊  
+- **Frameworks & Libraries**: Django 🎯, Flask 🔥, FastAPI ⚡, PyTorch 🔬, TensorFlow 🧠, Scikit-learn 📚,  
+  Next.js ⚡, Express.js 🚏, Vue.js 🌱, Expo 📱, YOLO 👁️, Laravel 🕊️, WordPress 🌐, ASP.NET 🛡️, Spring Boot 🌸  
 - **Databases**: PostgreSQL 🐘, MySQL 🗄️, MongoDB 🍃, Redis ⚡  
 - **Cloud & DevOps**: AWS ☁️, Docker 🐳, Kubernetes ⛴️, Terraform 🛠️, GitHub Actions ⚙️  
 - **Other Tools**: Git 🌀, Linux 🐧, Jupyter 📓, VS Code 💡, Postman 📮  
 
 ---
+
+## 💼 Professional Experience  
+I have more than a decade of experience in building and deploying large-scale applications.  
+I’ve worked with distributed teams across different time zones.  
+I led engineering teams in designing cloud-native architectures.  
+I developed scalable backend services in Python for SaaS companies.  
+I deployed microservices with Docker and Kubernetes in production.  
+I designed RESTful APIs and GraphQL APIs for various platforms.  
+I worked on machine learning models that powered recommendation systems.  
+I built natural language processing pipelines for text analytics.  
+I optimized large datasets with efficient algorithms.  
+I integrated CI/CD pipelines to automate deployments and testing.  
+I worked with startups as well as enterprise-level organizations.  
+I solved critical production issues under tight deadlines.  
+I wrote extensive documentation and technical guides.  
+I collaborated with cross-functional teams for project success.  
+I continuously learn and adopt new technologies.  
+
+--- 
+
+## ✨ Philosophy & Mindset  
+I believe in coding with empathy and understanding the end-user.  
+I think of software as a way to empower people and solve real problems.  
+I value teamwork, collaboration, and knowledge-sharing.  
+I respect clean code and the importance of testing.  
+I advocate for automation in development and deployment.  
+I believe that AI should be ethical, fair, and inclusive.  
+I consider open source as a way of giving back to the community.  
+I constantly explore how AI and cloud can transform industries.  
+I welcome feedback and see it as a way to grow.  
+I believe in the power of lifelong learning.  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mero-718&show_icons=true&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mero-718&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mero-718&layout=compact&theme=radical)  
+
+---
+
+## 🏅 Certifications  
+
+- 📜 **AWS Certified Solutions Architect – Associate**  
+- 📜 **AWS Certified Machine Learning – Specialty**  
+- 📜 **Microsoft Certified: Azure AI Engineer Associate**  
+- 📜 **Google Cloud Professional Data Engineer**  
+- 📜 **Certified Kubernetes Administrator (CKA)**  
+- 📜 **TensorFlow Developer Certificate**  
+- 📜 **DeepLearning.AI Machine Learning Specialization**  
+- 📜 **Docker Certified Associate**  
+- 📜 **Python Institute PCPP – Professional in Python Programming**  
+
+---
+
+
