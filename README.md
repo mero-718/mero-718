@@ -1,4 +1,4 @@
-# 👋 Hi, I asprie to be an excellent AI Engineer on a global level  
+# 👋 Hi, I aspire to be an excellent AI Engineer on a global level  
 ### 🚀 Senior Python Developer | 🤖 AI Engineer | ☁️ Cloud Enthusiast  
 
 ---
